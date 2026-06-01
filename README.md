@@ -1,6 +1,6 @@
 ## Hi 👋, I'm Tunmise Ola
 
-Backend & Web3 Developer from Nigeria
+Backend & Web3 Developer from FCT Abuja, Nigeria
 
 - 🔭 Building blockchain infrastructure
 - 🌱 Learning Solana + Rust
