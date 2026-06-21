@@ -4,4 +4,4 @@ Backend & Web3 Developer from FCT Abuja, Nigeria
 
 - 🔭 Building blockchain infrastructure
 - 🌱 Learning Solana + Rust
-- ⚡ FastAPI • Web3.py • Hardhat
+- ⚡ FastAPI • Web3.py
