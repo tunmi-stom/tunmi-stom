@@ -12,6 +12,7 @@ I build reliable backend systems that are secure, scalable, and built to last. B
    - Git
    - FasAPI
    - JWT & Authentication
+
 Looking to:
 -  Building blockchain infrastructure
 -  Learning Solana + Rust
