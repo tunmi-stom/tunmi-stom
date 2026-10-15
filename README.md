@@ -8,11 +8,10 @@ I build reliable backend systems that are secure, scalable, and built to last. B
    - Javascript
 2. Technologies
    - Node.js
-   - Web3.py
    - Git
    - FasAPI
    - JWT & Authentication
 
 Looking to:
 -  Building blockchain infrastructure
--  Learning Solana + Rust
+-  Learning Anchor + Rust
