@@ -18,8 +18,10 @@ Looking to:
 
 ## GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tunmi-stom&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=tunmi-stom&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tunmi-stom&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tunmi-stom&layout=compact&theme=tokyonight)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=tunmi-stom&theme=tokyonight)
+
+![Profile Views](https://komarev.com/ghpvc/?username=tunmi-stom&color=brightgreen)
