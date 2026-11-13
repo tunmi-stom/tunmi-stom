@@ -9,9 +9,14 @@ I build reliable backend systems that are secure, scalable, and built to last. B
 2. Technologies
    - Node.js
    - Git
-   - FasAPI
+   - FastAPI
    - JWT & Authentication
 
 Looking to:
 -  Building blockchain infrastructure
 -  Learning Anchor + Rust
+
+## GitHub Statistics
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tunmi-stom&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tunmi-stom&layout=compact&theme=tokyonight)
